@@ -1,4 +1,4 @@
-public class EvenOdd {
+public class evenodd {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
